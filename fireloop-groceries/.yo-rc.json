@@ -1,0 +1,12 @@
+{
+  "generator-fireloop": {
+    "version": "1.0.0-alpha.36",
+    "clients": {
+      "nativeapp": {
+        "path": "../nativeapp",
+        "type": "ng2native"
+      }
+    }
+  },
+  "generator-loopback": {}
+}
